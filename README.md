@@ -27,8 +27,9 @@ Now,
 
 open up localhost:
 Techstack Used:
-Python
-LangChain
-Flask
-Meta Llama2
-Pinecone
+
+1)Python
+2) LangChain 
+3)Flask
+4)Meta Llama2
+5) Pinecone
